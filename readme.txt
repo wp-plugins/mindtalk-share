@@ -1,6 +1,6 @@
 === Mindtalk Share ===
 Contributors: temonehm
-Donate link: http://mindtalk.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VZC3C39DGEA9G&lc=ID&item_name=jajanapa&amount=5%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: mindtalk button, social media, plugins, mindtalk plugins, mindtalk share
 Requires at least: 3.0.1
 Tested up to: 3.5.1
