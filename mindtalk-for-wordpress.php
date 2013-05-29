@@ -28,7 +28,6 @@ if(is_admin()){
 
     // call function for admin menu
     add_action('admin_menu', 'on_mindtalk_options');
-ss
     // function for mindtalk for wordpress options
     function on_mindtalk_options(){
 
