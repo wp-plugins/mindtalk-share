@@ -20,15 +20,15 @@
 */
 
 // define the URL
-define ('ON_MINDTALK_DIR', WP_PLUGIN_DIR.'/mindtalk-for-wordpress/');
-define ('ON_MINDTALK_URL', WP_PLUGIN_URL.'/mindtalk-for-wordpress/');
+define ('ON_MINDTALK_DIR', WP_PLUGIN_DIR.'/mindtalk-share/');
+define ('ON_MINDTALK_URL', WP_PLUGIN_URL.'/mindtalk-share/');
 
 // Checking page if is admin page
 if(is_admin()){
 
     // call function for admin menu
     add_action('admin_menu', 'on_mindtalk_options');
-
+ss
     // function for mindtalk for wordpress options
     function on_mindtalk_options(){
 
